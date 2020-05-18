@@ -1,2 +1,0 @@
-# TeddyBear
-Created with CodeSandbox
